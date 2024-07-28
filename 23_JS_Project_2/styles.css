@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff9800;
+}
+
+.buttons {
+  margin: 20px 0;
+}
+
+button {
+  background-color: #ff9800;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e68900;
+}
+
+#chartContainer {
+  width: 100%;
+  height: 400px;
+}
