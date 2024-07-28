@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+body{
+    background-image: url("./galaxy.gif");
+    font-family: "Roboto", sans-serif;
+    height: 100vh;
+}
+#main-txt{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+form{
+    margin-left: 30%;
+}
+
+#txt{
+    height: 30px;
+    width: 15%;
+}
+#btn{
+    height: 35px;
+    background-color: grey;
+    color: white;
+    font-weight: 700;
+}
+#planet_calculation{
+    height: 35px;
+}
+#result{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#planet_image{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
